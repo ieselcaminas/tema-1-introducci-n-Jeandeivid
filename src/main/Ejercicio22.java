@@ -1,3 +1,4 @@
+//Muy bien
 import java.util.Scanner;
 
 public class Ejercicio22 {
