@@ -1,8 +1,8 @@
-package RefuerzoIII;
+package BasicExercisesI;
 
 import java.util.Scanner;
 
-public class Ej33 {
+public class Ejercicio33 {
     public static void main(String[] args) {
         int num;
         int digito;

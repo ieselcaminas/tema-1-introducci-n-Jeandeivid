@@ -1,6 +1,8 @@
+package IntroduccionJava;
+
 import java.util.Scanner;
 
-public class Ejercicio25 {
+public class Ej25 {
     public static void main(String[] args) {
         long factorial = 1;
         int numero;
